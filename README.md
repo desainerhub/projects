@@ -44,5 +44,5 @@ This websites uses:
 - [GatsbyJS](https://github.com/gatsbyjs/gatsby) as website generator;
 - [gatsby-source-datocms](https://github.com/datocms/gatsby-source-datocms) to integrate the website with DatoCMS.
 
-[Desainerhub.com](https://desainerhub.com)
+[Desainerhub.com](https://desainerhub.com) |
 [Maksum Rifai](https://maksumrifai.github.io)
